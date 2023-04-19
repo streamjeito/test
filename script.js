@@ -1,3 +1,4 @@
-alert("hi")  
-dslkadslkds
-sss
+
+function (a, b){
+ a + b
+}
