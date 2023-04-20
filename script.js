@@ -2,3 +2,4 @@ alert("hi mr sulejman  i created my git \n hub account  after thet i will send y
 let a = 15
 alert(a)
 const first = "ali you can"
+alert second = "berom ke emruz beterkunim"
